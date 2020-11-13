@@ -1,0 +1,8 @@
+{
+  "name": "nugnug",
+  "version": "1.0.0",
+  "description": "Nugnug",
+  "main": "index.js",
+  "author": "Yuto Nishida <yuyu.nishida@gmail.com>",
+  "license": "MIT"
+}
